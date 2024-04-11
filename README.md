@@ -7,7 +7,7 @@
 К сожалению, я не могу распространять этот файл публично. Но если вам нужна помощь с этим, то вы можете перейти в [Discord](https://discord.gg/HDb3jQwNzk)
 
 
-##]() EN
+## EN
 
 Unfortunately, **remanga** extention was deleted from tachiyomy extentions repos due to legal issues. And that sucks :c
 But I found old version of this extention and rewrote it a little bit ( cause I had `Field 'page' is required for type with name ...` issue ) and I get valid extention.
